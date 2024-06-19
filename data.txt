@@ -1,0 +1,16 @@
+clean formals
+cleaning
+4
+5.060000
+shop medicine
+shopping
+6
+1.060000
+submit cse project
+study
+4
+1.060000
+Submit project
+study
+5
+1.060000
